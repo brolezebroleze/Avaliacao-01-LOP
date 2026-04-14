@@ -8,3 +8,8 @@ Arquivos gerados durante a avaliação Lógica de Programação, algoritimos e f
 - IDE Embacadero Dev C++
 - Draw.io para deenhar os fluxogramas
 - Bloco de Notas para ''portugol''  
+
+## Como Testar 🡇
+- Clone este repositório
+- Abra os arquivos .c com o DevC++
+- Pressione F11 para compilar executar
