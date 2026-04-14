@@ -2,12 +2,13 @@
 ## ⮩ Verificação Prática Somativa (14/04)
 Arquivos gerados durante a avaliação Lógica de Programação, algoritimos e fluxogramas
 
-
-## Tecnologias
-- Linguagem C
-- IDE Embacadero Dev C++
-- Draw.io para deenhar os fluxogramas
-- Bloco de Notas para ''portugol''  
+## Itens Utilizados 🡇
+Tecnologias | Utilidades 
+|:-:|-|
+| Linguagem | **C** |
+| IDE Embacadero | **Dev C++** |
+| [Draw.io](https://app.diagrams.net/) |  **Fluxogramas** |
+| Bloco de Notas | **Portugol**  | 
 
 ## Como Testar 🡇
 - Clone este repositório
